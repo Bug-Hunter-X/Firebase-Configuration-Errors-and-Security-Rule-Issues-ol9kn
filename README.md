@@ -1,0 +1,1 @@
+This repository demonstrates common Firebase configuration errors and how to resolve them.  It includes examples of mismatched settings, missing credentials, and incorrect security rules. Solutions are provided to fix these issues and ensure a smooth Firebase integration.
